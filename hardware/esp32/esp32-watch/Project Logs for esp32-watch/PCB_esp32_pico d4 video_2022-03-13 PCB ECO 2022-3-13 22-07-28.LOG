@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=5V Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Member From Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=C2
+Change Component Footprint: Designator=C4 Old Footprint=C0805 New Footprint=C0402
+Change Component Footprint: Designator=C14 Old Footprint=C0805 New Footprint=C0402
+Change Component Footprint: Designator=C15 Old Footprint=C0805 New Footprint=C0402
+Change Component Footprint: Designator=C16 Old Footprint=C0805 New Footprint=C0402
+Added Room: Name=PCB_esp32_pico d4 video_2022-03-13

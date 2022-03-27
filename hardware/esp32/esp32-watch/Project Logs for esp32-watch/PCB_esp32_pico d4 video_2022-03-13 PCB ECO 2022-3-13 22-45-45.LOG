@@ -1,0 +1,60 @@
+Removed Member From Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=R14
+Change Component Footprint: Designator=L1 Old Footprint=ANT2051 New Footprint=C0402
+Change Component Footprint: Designator=C13 Old Footprint=C0603 New Footprint=C0402
+Change Component Comment : Designator=L1 Old Comment=AN2051-245 New Comment=2.4nH
+Change component parameters: Designator = "L1"; Footprint = "C0402"; UniqueID = "\HLRYZZEO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(H)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "L0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=U3(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(ANT2051)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "BVREAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://item.taobao.com/item.htm?spm=a230r.1.14.4.81c453c0MSMjjx&id=627328734225&ns=1&abbucket=1#detail"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "ANT_CrossAir_CA-C03"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=NetC14_1 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=L1-1
+Added Pin To Net: NetName=NetC2_2 Pin=U1-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=L1-2
+Added Pin To Net: NetName=NetC17_2 Pin=U4-1
+Added Net: Name=NetC17_2
+Added Member To Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=Component C2 2pF
+Added Member To Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=Component C17 2pF
+Added Member To Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=Component U3 BAT
+Added Member To Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=Component U4 CA-C03
+Added Room: Name=PCB_esp32_pico d4 video_2022-03-13

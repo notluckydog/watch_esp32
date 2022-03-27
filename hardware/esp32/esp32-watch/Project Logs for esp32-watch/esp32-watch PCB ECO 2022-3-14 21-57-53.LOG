@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=3.3V Pin=U1-37
+Added Pin To Net: NetName=3.3V Pin=U1-43
+Added Pin To Net: NetName=3.3V Pin=U1-46
+Added Member To Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=Component BOOT SW2
+Added Room: Name=PCB_esp32_pico d4 video_2022-03-13

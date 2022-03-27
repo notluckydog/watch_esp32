@@ -1,0 +1,528 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=3V3 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=3V3_1 Pin=CARD3-4
+Removed Pin From Net: NetName=GND Pin=LCD1-5
+Removed Pin From Net: NetName=GND Pin=LCD1-6
+Removed Pin From Net: NetName=GND Pin=LCD1-12
+Removed Pin From Net: NetName=3V3 Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=+5V Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=SW4-4
+Removed Pin From Net: NetName=GND Pin=SW4-4
+Removed Pin From Net: NetName=GND Pin=SW4-4
+Removed Pin From Net: NetName=GND Pin=SW4-4
+Removed Pin From Net: NetName=3V3 Pin=U1-37
+Removed Pin From Net: NetName=3V3 Pin=U1-43
+Removed Pin From Net: NetName=3V3 Pin=U1-46
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=3V3 Pin=U2-5
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=+5V Pin=U4-4
+Removed Pin From Net: NetName=GND Pin=USB1-0
+Removed Pin From Net: NetName=GND Pin=USB1-0
+Removed Pin From Net: NetName=GND Pin=USB1-0
+Removed Pin From Net: NetName=GND Pin=USB1-0
+Change Component Footprint: Designator=C2 Old Footprint=C0402 New Footprint=CAP-TH_BD6.3-P2.50-D0.5-FD
+Change Component Footprint: Designator=R11 Old Footprint=R0402 New Footprint=R_0603
+Change Component Footprint: Designator=R12 Old Footprint=R0402 New Footprint=R_0603
+Change Component Footprint: Designator=R13 Old Footprint=R0402 New Footprint=R_0603
+Change Component Footprint: Designator=U2 Old Footprint=SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR New Footprint=SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL-EP2.0
+Change Component Footprint: Designator=USB1 Old Footprint=USB-C-SMD_TYPE-603-T3 New Footprint=TYPE-C-SMD_TYPE-C-31-M-16
+Change Component Comment : Designator=R13 Old Comment=1.6kΩ New Comment=R0603
+Change Component Comment : Designator=R12 Old Comment=1kΩ New Comment=R0603
+Change Component Comment : Designator=C3 Old Comment=1uF New Comment=C0402
+Change Component Comment : Designator=C9 Old Comment=1uF New Comment=C0402
+Change Component Comment : Designator=C10 Old Comment=1uF New Comment=C0402
+Change Component Comment : Designator=R3 Old Comment=10 New Comment=10Ω
+Change Component Comment : Designator=C6 Old Comment=10uF New Comment=10nf
+Change Component Comment : Designator=C5 Old Comment=10uF New Comment=100nf
+Change Component Comment : Designator=C7 Old Comment=10uF New Comment=100nf
+Change Component Comment : Designator=C8 Old Comment=10uF New Comment=100nf
+Change Component Comment : Designator=C2 Old Comment=10uF New Comment=铝电解电容
+Change Component Comment : Designator=R11 Old Comment=100kΩ New Comment=R0603
+Change Component Comment : Designator=R14 Old Comment=R0402 New Comment=0Ω
+Change Component Comment : Designator=U2 Old Comment=RT9013-33GB New Comment=TP5400
+Change Component Comment : Designator=LED1 Old Comment=TJ-S1005CL4T5ALC2R-A5 New Comment=BLUE
+Change Component Comment : Designator=USB1 Old Comment=TYPE-603-T3 New Comment=TYPE-C-31-M-16
+Change component parameters: Designator = "R11"; Footprint = "R_0603"; UniqueID = "\DPVJPEZJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PCB DECAL"; Value = "R_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "无线充电接收模块"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "R_0603"; UniqueID = "\XWGPEMPZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PCB DECAL"; Value = "R_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "R_0603"; UniqueID = "\VWKHFJVP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PCB DECAL"; Value = "R_0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.3R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CARD3"; Footprint = "TF-SMD_TF-01A"; UniqueID = "\gge0c4ec141a26eea82"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "HRO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TF-01A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C91145"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "TF-01A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "ANT2051"; UniqueID = "\gge89a25d6f37e98f1f"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "Rainsun"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "AN2051-245"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C99727"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "AN2051-245"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1"; Footprint = "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"; UniqueID = "\gge9cabbdcf46d75963"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "AOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "AO3400A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C20917"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "AO3400A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL-EP2.0"; UniqueID = "\MAGEOGZT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "TOPPOWER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TP5400"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C24154"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "TP5400"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BOOT"; Footprint = "SW-SMD_L4.0-W2.9-P4.15-EH"; UniqueID = "\ggef91a1aa12be9dff9"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "BRIGHT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TSA343G00D-250J2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C354947"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "TSA343G00D-250J2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CAP-TH_BD6.3-P2.50-D0.5-FD"; UniqueID = "\RDIXVVYD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "null"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CAP,铝电解电容,470UF,7*12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C9900003002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "CAP,铝电解电容,470UF,7*12"; VariantName = "[No Variations]"
+Change component parameters: Designator = "EN"; Footprint = "SW-SMD_L4.0-W2.9-P4.15-EH"; UniqueID = "\gge787b71f52e000926"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "BRIGHT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TSA343G00D-250J2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C354947"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "TSA343G00D-250J2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "USB1"; Footprint = "TYPE-C-SMD_TYPE-C-31-M-16"; UniqueID = "\JGTZGBLP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "Korean Hroparts Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TYPE-C-31-M-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C283541"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "TYPE-C-31-M-16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "C0402"; UniqueID = "\ggec4a46a1c0068362c"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CC0402KRX5R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C105882"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "CC0402KRX5R9BB104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "C0402"; UniqueID = "\gge61173c8f5ac700c3"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CL05A106MQ5NUNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C15525"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "CL05A106MQ5NUNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "C0402"; UniqueID = "\ggecc43d56cafb3bc79"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CL05A106MQ5NUNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C15525"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "CL05A106MQ5NUNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "C0402"; UniqueID = "\gge5a0907d3f9c87abb"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CL05A106MQ5NUNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C15525"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "CL05A106MQ5NUNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "R0402"; UniqueID = "\gge9739dc2e9ac055fd"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "UniOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "R0402"; UniqueID = "\gge3ccafa67c4771fa4"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "UniOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "R0402"; UniqueID = "\gge3b2690f3ae5f5ec0"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "UniOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "R0402"; UniqueID = "\gge95992a53844f57ed"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "UniOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LCD1"; Footprint = "TFT_1.28_GC9A01_CB0.8"; UniqueID = "\ggee4aa1a4ed4499c49"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "启凡科创"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "TFT_1.28_GC9A01_CB1.6"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "QFN-48_L7.0-W7.0-P0.50-BL-EP5.4"; UniqueID = "\gge2cc108df6364d103"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "ESP32-PICO-D4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C193707"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Display"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "ESP32-PICO-D4"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "C0402"; UniqueID = "\ggeafbf739a73b156b6"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CL05A106MQ5NUNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C15525"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Display"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "CL05A106MQ5NUNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "R0402"; UniqueID = "\gge51830d3a1ae1d5b9"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "UniOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "0402WGF100JTCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Resistance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "0402WGF100JTCE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "R0603"; UniqueID = "\ggeb69b674dc8e60971"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "UniOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "0603WAJ0000T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C15402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Resistance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "0603WAJ0000T5E"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14"; Footprint = "R0402"; UniqueID = "\gge78728b6dc065e0da"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "UniOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "0402WGJ0000TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C21376"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Resistance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "0402WGJ0000TCE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "R0402"; UniqueID = "\ggeee278548000f5b4e"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "Tyohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RMC04025.1K5%N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C325524"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Resistance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "5.1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "RMC04025.1K5%N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "R0402"; UniqueID = "\gge16ebb7349e4ad8c3"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "Tyohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RMC04025.1K5%N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C325524"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Resistance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "5.1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "RMC04025.1K5%N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "C0402"; UniqueID = "\MEFKOIKA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture 1 P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCB DECAL"; Value = "CAP_0603_FIRE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Serial Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1UF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "C0402"; UniqueID = "\PLYOETOJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture 1 P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCB DECAL"; Value = "CAP_0603_FIRE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Serial Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "C0402"; UniqueID = "\CIZTGWAT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture 1 P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCB DECAL"; Value = "CAP_0603_FIRE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Serial Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1UF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "R0402"; UniqueID = "\gge7c47434b0d47da45"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "AC0402JR-0712KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C227297"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "12kΩ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "AC0402JR-0712KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "R0402"; UniqueID = "\gge7ba219eeba5d1737"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "AC0402JR-0712KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C227297"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "12kΩ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "AC0402JR-0712KL"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture 1 P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "CAP_0603_FIRE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Serial Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uf"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture 1 P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "CAP_0603_FIRE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Serial Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1UF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C15415"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "10UF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C15(C0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C16(C0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(SOD-323)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(IND-SMD_L4.0-W4.0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Sunlord"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SWPA4030S100MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C38117"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Inductance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SWPA4030S100MT"; VariantName = "[No Variations]"
+Added Component: Designator=LDO1(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "FM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SC662K-3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83932"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SC662K-3.3V"; VariantName = "[No Variations]"
+Added Component: Designator=P1(2.54-1*4P_TIGHT_JX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C115245"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "2.54-1*4P_JX"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=3V3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+5V Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+5V Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=3V3 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=3V3 Pin=CARD3-4
+Added Pin To Net: NetName=+5V Pin=D1-2
+Added Pin To Net: NetName=GND Pin=LDO1-1
+Added Pin To Net: NetName=3V3 Pin=LDO1-2
+Added Pin To Net: NetName=+5V Pin=LDO1-3
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=+5V Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=+5V Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=USB1-1
+Added Pin To Net: NetName=GND Pin=USB1-2
+Added Pin To Net: NetName=GND Pin=USB1-3
+Added Pin To Net: NetName=GND Pin=USB1-4
+Change Net Name : Old Net Name=+5V New Net Name=5V
+Change Net Name : Old Net Name=3V3 New Net Name=3.3V
+Change Net Name : Old Net Name=3V3_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=ESP32/IO2(MISO) New Net Name=NetCARD3_7
+Change Net Name : Old Net Name=ESP32/IO5 New Net Name=NetLCD1_8
+Change Net Name : Old Net Name=ESP32/IO13(CS) New Net Name=NetCARD3_2
+Change Net Name : Old Net Name=ESP32/IO14(SCL) New Net Name=NetCARD3_5
+Change Net Name : Old Net Name=ESP32/IO15(SDA) New Net Name=NetCARD3_3
+Change Net Name : Old Net Name=ESP32/IO22(BLK) New Net Name=NetQ1_1
+Change Net Name : Old Net Name=ESP32/IO27 New Net Name=NetLCD1_7
+Change Net Name : Old Net Name=ESP32/IO33 New Net Name=NetLCD1_11
+Change Net Name : Old Net Name=TTL/RX New Net Name=NetU1_40
+Change Net Name : Old Net Name=TTL/TX New Net Name=NetU1_41
+Change Net Name : Old Net Name=U1_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=U1_3 New Net Name=NetL1_1
+Change Net Name : Old Net Name=U1_9 New Net Name=NetEN_2
+Change Net Name : Old Net Name=U1_23 New Net Name=NetBOOT_2
+Added Pin To Net: NetName=3V3 Pin=R10-1
+Added Pin To Net: NetName=3V3 Pin=U1-37
+Added Pin To Net: NetName=3V3 Pin=U1-43
+Added Pin To Net: NetName=3V3 Pin=U1-46
+Added Net: Name=3V3
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=LED1-1
+Added Pin To Net: NetName=NetC13_2 Pin=R13-2
+Added Pin To Net: NetName=NetC13_2 Pin=U2-5
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=C15-1
+Added Pin To Net: NetName=NetC14_1 Pin=C16-1
+Added Pin To Net: NetName=NetC14_1 Pin=L2-1
+Added Pin To Net: NetName=NetC14_1 Pin=U2-6
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=L2-2
+Added Pin To Net: NetName=NetD1_1 Pin=U2-8
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetLCD1_2 Pin=LCD1-2
+Added Pin To Net: NetName=NetLCD1_2 Pin=R3-1
+Added Net: Name=NetLCD1_2
+Added Pin To Net: NetName=NetLCD1_5 Pin=LCD1-5
+Added Pin To Net: NetName=NetLCD1_5 Pin=LCD1-6
+Added Pin To Net: NetName=NetLCD1_5 Pin=LCD1-12
+Added Net: Name=NetLCD1_5
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=U2-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=U2-4
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R3-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=USB1-A5
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=USB1-B5
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U2-3
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=VBUS Pin=R13-1
+Added Net: Name=VBUS
+Added Class: Name=PCB_esp32_pico d4 video_2022-03-13
+Added Room: Name=PCB_esp32_pico d4 video_2022-03-13

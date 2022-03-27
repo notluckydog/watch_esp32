@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=5V Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=5V Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=USB1-1
+Removed Pin From Net: NetName=GND Pin=USB1-2
+Removed Pin From Net: NetName=GND Pin=USB1-3
+Removed Pin From Net: NetName=GND Pin=USB1-4
+Removed Pin From Net: NetName=5V Pin=USB1-A9
+Removed Pin From Net: NetName=GND Pin=USB1-A12
+Removed Pin From Net: NetName=5V Pin=USB1-B9
+Removed Pin From Net: NetName=GND Pin=USB1-B12
+Removed Member From Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=R1
+Removed Member From Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=R2
+Removed Member From Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=USB1
+Change Net Name : Old Net Name=5V New Net Name=+5.0V
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=R11-2
+Added Pin To Net: NetName=5V Pin=R13-1
+Added Net: Name=5V
+Added Room: Name=PCB_esp32_pico d4 video_2022-03-13

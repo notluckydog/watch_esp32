@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=GND Pin=LDO1-1
+Removed Pin From Net: NetName=3.3V Pin=LDO1-2
+Removed Pin From Net: NetName=+5.0V Pin=LDO1-3
+Removed Member From Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=LDO1
+Change component parameters: Designator = "C9"; Footprint = "C0402"; UniqueID = "\PLYOETOJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture 1 P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCB DECAL"; Value = "CAP_0603_FIRE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Serial Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11"; Footprint = "C0402"; UniqueID = "\VZOWOMJB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture 1 P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCB DECAL"; Value = "CAP_0603_FIRE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Serial Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uf"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "AMS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C6186"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "sourceId"; Value = "dwIGgezVh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "timeStamp"; Value = "1476261164"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5.0V Pin=U?-1
+Added Pin To Net: NetName=3.3V Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=3.3V Pin=U?-4
+Added Member To Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=Component U? AMS1117-3.3
+Added Room: Name=PCB_esp32_pico d4 video_2022-03-13

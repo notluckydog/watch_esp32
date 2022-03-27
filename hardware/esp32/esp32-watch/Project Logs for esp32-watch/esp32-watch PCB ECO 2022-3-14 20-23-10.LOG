@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+5.0V Pin=U?-1
+Removed Pin From Net: NetName=3.3V Pin=U?-2
+Removed Pin From Net: NetName=GND Pin=U?-3
+Removed Pin From Net: NetName=3.3V Pin=U?-4
+Removed Member From Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=U?
+Added Component: Designator=U5(SOT-89_L4.5-W2.5-P1.50-LS4.2-BR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Youtai Semiconductor Co., Ltd."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C347256"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "AMS1117-3.3_C347256"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=3.3V Pin=U5-2
+Added Pin To Net: NetName=3.3V Pin=U5-2
+Added Pin To Net: NetName=+5.0V Pin=U5-3
+Added Member To Class: ClassName=PCB_esp32_pico d4 video_2022-03-13 Member=Component U5 AMS1117-3.3_C347256
